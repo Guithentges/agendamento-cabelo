@@ -126,7 +126,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   apiConfig: () => (/* binding */ apiConfig)\n/* harmony export */ });\nvar apiConfig = {\n  baseURL: \"https://agendamento-cabelo.onrender.com\"\n};\n\n//# sourceURL=webpack://Agendamento_cabelo/./src/services/api-config.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   apiConfig: () => (/* binding */ apiConfig)\n/* harmony export */ });\nvar apiConfig = {\n  baseURL: \"https://agendamento-cabelo-production.up.railway.app/\"\n};\n\n//# sourceURL=webpack://Agendamento_cabelo/./src/services/api-config.js?");
 
 /***/ }),
 
