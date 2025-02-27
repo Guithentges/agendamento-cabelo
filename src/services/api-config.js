@@ -1,3 +1,3 @@
 export const apiConfig = {
-    baseURL : "https://agendamento-cabelo-production.up.railway.app/"
+    baseURL : "https://agendamento-cabelo.onrender.com"
 }
